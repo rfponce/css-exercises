@@ -1,0 +1,27 @@
+.pinky-background
+{
+  background-color: #ffa7a7;
+}
+
+p
+{
+  font-family: Verdana, sans-serif;
+}
+
+#big-blue
+{
+  color: #00f;
+  font-size: 36px;
+}
+
+#green-bold
+{
+  background-color: #0f0;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.font24px
+{
+  font-size: 24px;
+}
